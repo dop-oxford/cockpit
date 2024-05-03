@@ -17,6 +17,7 @@ Microscope-Cockpit
    install
    getting-started
    config
+   simulated-devices
    depot-config
    architecture
    computer-os-selection
